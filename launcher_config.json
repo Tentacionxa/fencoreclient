@@ -19,6 +19,9 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		{
 			"name": "bin"
 		},
+		{
+			"name": "minimap"
+		},
 	],
 	"clientFolder": "Tibia",
 	"newClientUrl" : "https://github.com/Tentacionxa/fencoreclient/releases/download/FencoreLauncherv1/13.40.000095.zip",
