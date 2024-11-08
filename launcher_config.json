@@ -9,7 +9,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 • executable The path to the client's executable file, represented as "bin/client.exe"
 */
 {
-	"clientVersion": "13.40.000098",
+	"clientVersion": "13.40.000099",
 	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
@@ -18,6 +18,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		},
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Tentacionxa/fencoreclient/releases/download/FencoreLauncherv1/v13.40.000098.zip",
+	"newClientUrl" : "https://github.com/Tentacionxa/fencoreclient/releases/download/FencoreLauncherv1/v13.40.000099.zip",
 	"clientExecutable": "client.exe"
 }
